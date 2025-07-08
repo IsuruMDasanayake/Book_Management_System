@@ -49,7 +49,7 @@ php artisan migrate
 # 6. Start the server
 php artisan serve
 
-
+```
 
 👤 Author
 Isuru M. Dasanayake
